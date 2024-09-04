@@ -1,0 +1,29 @@
+{
+  "name": "iframe-this",
+  "version": "1.0.0",
+  "description": "Use a simple iframe to load hundreds of lines of code, and inject assets directly into your code without the eye sores or hassles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudosurmrf/iframe-this.git"
+  },
+  "keywords": [
+    "iframe-this",
+    "iframe",
+    "inject",
+    "code",
+    "asset",
+    "injection",
+    "iframe",
+    "loader"
+  ],
+  "author": "Ari Pine, Jose Sandoval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudosurmrf/iframe-this/issues"
+  },
+  "homepage": "https://github.com/sudosurmrf/iframe-this#readme"
+}
